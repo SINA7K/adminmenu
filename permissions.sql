@@ -1,0 +1,2 @@
+ALTER TABLE players
+ADD COLUMN adminduty INT DEFAULT 0;
